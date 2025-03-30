@@ -18,6 +18,7 @@ int main(int argc, char **argv) {
   int expected;
   fscanf(fp, "%d", &expected);
 
+
   struct game_state start;
   start.num_steps = 0;
   for (uint8_t i = 0; i < 4; i++) {

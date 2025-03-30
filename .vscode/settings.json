@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "tile_game.h": "c",
+        "xiosbase": "c",
+        "stdlib.h": "c"
+    }
+}
